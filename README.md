@@ -16,7 +16,7 @@ Welcome to the Solana NFT Program! This smart contract lets you mint, transfer, 
 
 1. **Clone the Repo**:
    \`\`\`bash
-   git clone https://github.com/yourusername/Solana-NFT-Program.git
+   git clone https://github.com/aditiyax/Solana-NFT-Program.git
    cd Solana-NFT-program
    \`\`\`
 
