@@ -1,7 +1,7 @@
 
 # Solana NFT Program
 
-Welcome to the Solana NFT Program! This smart contract lets you mint, transfer, and manage NFTs on the Solana blockchain using the Anchor framework. Get ready to create some unique digital assets!
+Welcome to the Solana NFT Program! This smart contract lets you mint, transfer, and manage NFTs on the Solana blockchain using the Anchor framework. 
 
 ## 🚀 Quick Setup
 
